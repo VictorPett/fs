@@ -1,22 +1,24 @@
-[
-  {
-    "id": 0,
-    "name": "Leonardo",
-    "score": 0
-  },
-  {
-    "id": 1,
-    "name": "Donatello",
-    "score": 0
-  },
-  {
-    "id": 2,
-    "name": "Michelangelo",
-    "score": 0
-  },
-  {
-    "id": 3,
-    "name": "Raphael",
-    "score": 0
-  }
-]
+{
+  "users": [
+    {
+      "id": 0,
+      "name": "Leonardo",
+      "score": 0
+    },
+    {
+      "id": 1,
+      "name": "Donatello",
+      "score": 0
+    },
+    {
+      "id": 2,
+      "name": "Michelangelo",
+      "score": 0
+    },
+    {
+      "id": 3,
+      "name": "Raphael",
+      "score": 0
+    }
+  ]
+}
